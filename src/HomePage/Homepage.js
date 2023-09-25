@@ -1,4 +1,5 @@
-import React from 'react';
+import React from "react";
+import ChartComponent from "../ChartComponent";
 
 function Homepage() {
   return (
@@ -38,15 +39,16 @@ function Homepage() {
 
         <hr></hr>
         <hr></hr>
-        <figure>
-          <br />
-          <h1><figcaption>Financial Distribution Chart</figcaption></h1>
-          <canvas id="myChart" width="400" height="400"></canvas>
+        <figure
+        >
+          <figcaption>
+            <h1>Financial Distribution Chart Using ChartJS</h1>
+          </figcaption>
+          <ChartComponent style={{ width: "1000px", height: "900px" }} />
         </figure>
       </section>
       <br />
     </main>
-
   );
 }
 
