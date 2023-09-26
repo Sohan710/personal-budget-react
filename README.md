@@ -1,3 +1,15 @@
+# Sohan Birajdar - 801298151 
+ITCS 5166 - NBAD 
+------------------------------------------------------------------------------------------
+# Quiz - 6 [Coding Exercise 3]
+1. Bring Axios into your application
+2. Bring ChartJS into your application
+3. Bring D3JS into your application
+4. Implement Axios inside your app... so as to make a call to your backend and get the charts to work on your React app
+5. Transform the *.CSS files into *.SCSS (you might need to google "Adding SASS to React")
+
+------------------------------------------------------------------------------------------
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
